@@ -1,0 +1,11 @@
+#ifndef __CONSTANT_H__
+#define __CONSTANT_H__
+
+#define WORD_SIZE 800
+
+#define MAIN_WINDOW_TITLE "DICT"
+#define MAIN_WINDOW_WIDTH 700
+#define MAIN_WINDOW_HIGHT 600
+#define MAIN_WINDOW_BORDER_WIDTH 5
+
+#endif /* __CONSTANT_H__ */
